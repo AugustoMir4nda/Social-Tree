@@ -3,12 +3,12 @@
 Resolução de desafio a partir de um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.<br/>
 <br/>
 
-## PROJETO
+<h1 align="center"> PROJETO </h1> 
 
 Realizar a construção de uma página com agregador de links utilizando apenas HTML e CCS, que poderá ser utilizada como cartão de visita, tendo como base um layout disponibilizado através do Figma.
+<br/>
 
 ## TECNOLOGIAS UTILIZADAS
-
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
